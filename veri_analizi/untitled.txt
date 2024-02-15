@@ -1,0 +1,11 @@
+**Veri Setinin Yapısının Tanımak:**
+- kaç değişken var?
+- kaç gözlem var?
+- değişkenlerin türleri neler?
+- RAM'de tuttuğu boyut?
+
+**Veri Setinin Betimsel İstatistikleri:**
+- kategorik değişkenlerin özetleri
+- sayısal değişkenlerin özetleri
+- dağılımı
+- merkezi eğilim ölçüleri

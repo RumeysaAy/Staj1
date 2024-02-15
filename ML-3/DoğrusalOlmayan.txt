@@ -1,0 +1,15 @@
+Doğrusal Olmayan Regresyon Modelleri
+
+* K-En Yakın Komşu (KNN)
+* Destek Vektör Regresyonu (SVR)
+* Çok Katmanlı Algılayıcılar (ANN)
+* Classification and Regression Tress (CART)
+* Bagging (Bootstrap Aggregation)
+* Random Forests (RF)
+* Gradient Boosting Machines (GBM)
+* Extreme Gradient Boosting (XGBoost)
+* LightGBM
+* CatBoost
+
+
+Bir sürekli değişkeni regresyon anlamında çözebilmek için doğrusal olmayan  modelleme teknikleri kullanılır.

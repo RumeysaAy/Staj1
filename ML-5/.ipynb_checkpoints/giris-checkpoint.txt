@@ -1,0 +1,10 @@
+########## Gözetimsiz Öğrenme
+
+makine öğrenmesi modellerinde bağımlı değişkenin elimizde olmadığı durumlarda gözlem birimlerinin bir şekilde anlamlı bir hale getirilme çabası olarak nitelendirilebileceğimiz gözetimsiz öğrenme bölümü
+
+* K-Means
+* Hiyerarşik Kümeleme Analizi
+* Temel Bileşen Analizi
+
+bu yöntemler bize elimizde bir bağımlı değişken olmadığında bağımsız değişkenler arasında nasıl işlemler yapabileceğimiz ile ilgili bazı yöntemler sunar
+

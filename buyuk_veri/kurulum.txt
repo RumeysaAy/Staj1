@@ -1,0 +1,7 @@
+ jdk
+ 
+ apache spark
+ 
+jlab
+
+pip install findspark

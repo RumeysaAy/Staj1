@@ -1,0 +1,14 @@
+teori ############
+
+ağaç var düğüme ayıracağız bu düğüme ayırma işlemlerini en üstteki değişken en önemli değişken en üstteki en önemli değişkeni seçmeye karar vermeden önce dallara ayırıcı bilgi kazancı ve benzeri kriterleri uygulamadan önce 
+
+hangi değişkenleri ben buna uygulayayım sorusu ana değişkenlerin içerisinden rastgele ve daha az sayıda bir değişken içinden seçilir p adet değişkenden daha küçük k adet değişken seçilip dallara ayırma işlemi ve değişkenlerin önem düzeyi belirlenme işlemi buna göre gerçekleştirilmiş olur.
+
+
+tuning ###########
+
+bagging'de validasyon işlemi yap dediğimizde 
+
+her olası parametre setini her bir ağaç için 10 katlı olacak şekilde deneme işlemi yapıyoruz ama burada 10 tane ağaç vardı
+
+tek bir ağaca 2 tane parametre gönderdiğinizde birinde 5 birinde 10 parametre olduğunda bunların tüm kombinasyonları kadar deneme işlemi yapacaktır. Ağaç sayısını 10'a çıkardığınızda bu kombinasyonda göz önünde bulundurulmuş olacaktır. ağaç sayısını 500'e ve her ağacın her bölünme işleminde rastgele seçilecek olan değişken sayısına bir parametre verdiğiniz zaman bu işlem uçup gidecektir.çok çok daha fazla parametre denenecektir.

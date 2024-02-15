@@ -1,0 +1,3 @@
+Ridge
+
+aykırı gözlemlere duyarlı olması, varsayım bozunumları gibi problemler ile yine doğrusal regresyon modelinin kabiyetlerini kullanarak bunu daha ileri düzey ve daha başarılı bir hale nasıl getirebiliriz çabaları sonrası doğan başka bir modeldir.

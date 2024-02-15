@@ -1,0 +1,17 @@
+### SINIFLANDIRMA MODELLERİ
+
+* Naive Bayes
+* K-En Yakın Komşu (KNN)
+* Destek Vektör Regresyonu (SVR)
+* Çok Katmanlı Algılayıcılar (ANN)
+* Classification and Regression Tress (CART)
+* Bagging (Bootstrap Aggregation)
+* Random Forests (RF)
+* Gradient Boosting Machines (GBM)
+* Extreme Gradient Boosting (XGBoost)
+* LightGBM
+* CatBoost
+
+
+
+önceki bölümlerde regresyon işlediğimizden bağımlı değişkenimiz sürekli değişkendi ve bir basketbol oyuncusunun çeşitli teknik özellikleri geldiğinde maaşının ne kadar olabileceğini tahmin etmiştik. burada ise hedeflediğimiz bağımlı değişkenimiz bir kategorik değişken olacak ve amacımız yine benzer şekilde örneğin yeni bir gözlem birimi geldiğinde bağımsız değişken değerleri gözlemlendiğinde kategorik değişkenimizin 1 ya da 0 sınıfının gerçekleşmesi olasılığıyla ilgileneceğiz

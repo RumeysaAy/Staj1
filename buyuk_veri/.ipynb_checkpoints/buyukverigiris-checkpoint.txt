@@ -1,0 +1,14 @@
+####### Büyük Veri
+
+* Büyük Veri Nedir?
+* Apache Hadoop
+* Apache Spark
+* Ecosistemin Diğer Üyeleri
+* Büyük Veride Keşifçi veri analizi
+* Büyük Veride Makine Öğrenmesi
+
+
+
+####### Apache Spark
+
+Apache Spark adı verilen python dünyası ile büyük veri dünyasını bir araya getirip üzerinde çalışma imkanı veren daha özelinde spark ile çalışma imkanı veren pyspark'dır.

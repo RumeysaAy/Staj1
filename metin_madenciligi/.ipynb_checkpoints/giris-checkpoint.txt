@@ -1,0 +1,8 @@
+Doğal Dil İşleme & Metin Madenciliği
+
+* Temel String İşlemleri
+* Veri Ön İşleme
+* Matematiksel İşlemler ve Basit Özellik Çıkarımı
+* Metin Görselleştirme
+* Sentiment Analizi
+* Makine Öğrenmesi ile Sınıflandırma Modeli

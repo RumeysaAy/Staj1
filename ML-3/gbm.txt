@@ -1,0 +1,12 @@
+teori ################
+
+daha önce birbirinden farklı ve birbirinden bağımsız ağaçlar vardı. 
+boosting bir optimizasyon problemi olarak görülebilir
+
+bagging bootstrap aggretion demekti.
+boosting ise boots etmek beslemek, desteklemek, yükseltmek
+
+
+########
+
+GBM, güzel çalışmakta başarılı performans sonuçları vermekte Ağaç metodolojilerinin geçmişinde barındırdığı bilgileri kullanıp bunu teorik bir yapıya oturtan hem regresyon hemde sınıflandırma problemleri için kullanılabilen teorik framework. pratik anlamda kullanılan başarılı bir algoritmadır
